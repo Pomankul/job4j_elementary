@@ -18,7 +18,7 @@ class PointTest {
     }
 
     @Test
-    void when34to56then2() {
+    void when34to56then2dot83() {
         int x1 = 3;
         int y1 = 4;
         int x2 = 5;
